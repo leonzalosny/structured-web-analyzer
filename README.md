@@ -29,7 +29,7 @@ This tool demonstrates:
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/leonzalosny/structured-web-analyzer.git
 cd structured-web-analyzer
 ```
 
