@@ -1,0 +1,25 @@
+{
+  "category": "news",
+  "summary": "Hacker News is a social news website focusing on computer science and entrepreneurship. It features user-submitted stories ranked by votes and includes a variety of topics such as technology, programming, startups, and science. The site provides links to original content and user discussions.",
+  "subjects": [
+    "technology",
+    "programming",
+    "startups",
+    "science",
+    "software",
+    "internet"
+  ],
+  "contextual_analysis": {
+    "audience": "developers",
+    "tone": "informal",
+    "purpose": "inform",
+    "notable_features": [
+      "user-submitted stories",
+      "voting system",
+      "comment discussions",
+      "varied topics in tech and science",
+      "links to original sources",
+      "minimalist design"
+    ]
+  }
+}

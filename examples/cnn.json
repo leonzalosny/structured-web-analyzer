@@ -1,0 +1,35 @@
+{
+  "category": "news",
+  "summary": "CNN provides breaking news, latest news, and videos covering U.S., world, weather, entertainment, politics, health, and more. The website features a wide range of topics including live updates, analysis, and multimedia content such as videos and galleries. It offers navigation to various sections like US, World, Politics, Business, Health, Entertainment, Style, Travel, Sports, Science, and Climate.",
+  "subjects": [
+    "U.S. news",
+    "World news",
+    "Politics",
+    "Business",
+    "Health",
+    "Entertainment",
+    "Style",
+    "Travel",
+    "Sports",
+    "Science",
+    "Climate",
+    "Weather",
+    "Live TV",
+    "Podcasts",
+    "Games"
+  ],
+  "contextual_analysis": {
+    "audience": "general public",
+    "tone": "formal",
+    "purpose": "inform",
+    "notable_features": [
+      "Breaking news coverage",
+      "Video and multimedia content",
+      "Live TV and audio streaming",
+      "Extensive navigation with multiple news categories",
+      "User account and subscription options",
+      "Social media integration",
+      "Interactive elements like quizzes and games"
+    ]
+  }
+}

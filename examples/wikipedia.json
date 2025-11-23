@@ -1,0 +1,5 @@
+{
+  "error": "Scraping not allowed",
+  "url": "https://wikipedia.org",
+  "message": "The website's robots.txt disallows scraping."
+}

@@ -1,0 +1,31 @@
+{
+  "category": "documentation",
+  "summary": "The Rust Programming Language website provides comprehensive information about Rust, a language designed to empower everyone to build reliable and efficient software. It highlights Rust's performance, reliability, and productivity benefits, and offers resources for learning, building projects, and community involvement. The site also showcases Rust's use in production and encourages contributions from the community.",
+  "subjects": [
+    "Rust programming language",
+    "software development",
+    "performance",
+    "reliability",
+    "productivity",
+    "command line tools",
+    "WebAssembly",
+    "networking",
+    "embedded systems",
+    "community",
+    "contribution"
+  ],
+  "contextual_analysis": {
+    "audience": "developers",
+    "tone": "promotional",
+    "purpose": "inform",
+    "notable_features": [
+      "multi-language support",
+      "download and installation guides",
+      "learning resources",
+      "community engagement",
+      "production use cases",
+      "contribution guides",
+      "social media links"
+    ]
+  }
+}
