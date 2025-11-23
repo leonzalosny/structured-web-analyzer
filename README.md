@@ -61,14 +61,26 @@ By default, it analyzes CNN's homepage. To analyze a different website, modify t
 
 ```json
 {
-  "category": "news",
-  "summary": "CNN is a major news organization providing breaking news, analysis, and multimedia content across politics, business, technology, and world events.",
-  "subjects": ["news", "politics", "business", "technology", "world events"],
+  "category": "blog",
+  "summary": "The Go Blog is the official blog of the Go programming language project, providing updates, announcements, and insights about Go. It features articles on new releases, experimental features, community events, and technical discussions. The blog serves as a resource for Go developers to stay informed about the language's development and ecosystem.",
+  "subjects": [
+    "Go programming language",
+    "software development",
+    "programming updates",
+    "community events",
+    "technical articles"
+  ],
   "contextual_analysis": {
-    "audience": "general public",
+    "audience": "developers",
     "tone": "formal",
     "purpose": "inform",
-    "notable_features": ["breaking news", "video content", "live updates"]
+    "notable_features": [
+      "Official blog of the Go project",
+      "Articles on Go releases and features",
+      "Community and event information",
+      "Technical deep dives and tutorials",
+      "Links to related resources and social media"
+    ]
   }
 }
 ```
